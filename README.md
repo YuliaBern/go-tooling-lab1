@@ -17,7 +17,6 @@ make test
 ```bash
 make lint
 ```
-
 ## Author
 
-Student project - Yulia Bernatska
+Student project
